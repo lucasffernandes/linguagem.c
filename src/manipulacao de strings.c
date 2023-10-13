@@ -22,6 +22,8 @@ int main()
 
 // concatenação(juncao) de strings
 
+/*
+
 #include <stdio.h>
 
 int main() {
@@ -224,3 +226,5 @@ int main()
     
     return 0;
 }
+
+*/

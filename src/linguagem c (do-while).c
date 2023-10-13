@@ -40,6 +40,8 @@ int main() {
 
 /// tambem um algoritmo para calculo de salário abaixo!!
 
+/*
+
 #include <stdio.h>
 #include <math.h>
 
@@ -148,3 +150,5 @@ int main()
     
     return 0;
 }
+
+*/

@@ -18,7 +18,7 @@ int main()  // struct é um tipo de variavel, que armazena variaveis de varios t
 }
 // RELEMBRANDO... VARIAVEIS PRIMITIVAS SAO: INT,FLOAT,DOUBLE,CHAR... 'LONG' ALONGA UM ESPACAMENTO DE VARIAVEL, COSNTANTE É UM VALOR DE VARIAVEL IMUTAVEL
 // --------------------------------------------------------------------------
-
+/*
 #include <stdio.h>
 
 int main()
@@ -310,3 +310,5 @@ void printarHoras(struct horario x[5]) {
     
     
 };
+
+*/

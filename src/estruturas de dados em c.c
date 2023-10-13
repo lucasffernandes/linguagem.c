@@ -18,7 +18,7 @@ int main()
     return 0;
 }
 
-// outra formula de criação de vetores
+/* // outra formula de criação de vetores
 
 #include <stdio.h>
 
@@ -168,7 +168,7 @@ int matriz(int x,int y) {
     
     return lista[i][j];
 }
-// concatenação(juncao) de strings
+ concatenação(juncao) de strings
 
 #include <stdio.h>
 
@@ -198,4 +198,5 @@ void concatenar(char string1[], int t1, char string2[], int t2, char string3[]) 
     for (j = 0; j < t2; j++) {
         string3[t1  + (j-1) ] = string2[j];
     }
-}
+} 
+*/

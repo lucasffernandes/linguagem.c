@@ -17,8 +17,10 @@ int main()
 
 //......................................
 
+
 // ESTRUTURA DE REPETIÇÃO (DO WHILE) ABAIXO //
 
+/*
 #include <stdio.h>
 
 int main ()
@@ -78,3 +80,5 @@ if (a<b + c && b<a + c && c < a + b)
                      printf("\n\n Dadas as medidas: %d, %d, %d, não formam um triângulo", a, b, c);
  return 0;
 } // algoritmo de analise e teste de formato de triangulos
+
+*/

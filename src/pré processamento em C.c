@@ -26,6 +26,8 @@ int main(void) {
 }
 // -----------------------------------------
 
+/*
+
 #include <stdio.h>
 
 #define NUMERO_DE_ALUNOS 9839
@@ -638,3 +640,6 @@ int main() {
 
     return 0;
 }
+
+*/
+
