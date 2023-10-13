@@ -10,3 +10,5 @@ Contendo nos arquivos:
 * Tratamentos de dados em vetores e matrizes.
 * Utilização de ponteiros de memória.
 * Como utilizar pré-processamento na linguagem.
+* Utilização de estruturas (structs).
+* Utilização básica de funções.
